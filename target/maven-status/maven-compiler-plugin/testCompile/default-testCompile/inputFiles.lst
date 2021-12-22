@@ -1,0 +1,6 @@
+/Users/geo/eclipse-workspace/tutorials-master/spring-batch/src/test/java/com/baeldung/batch/SpringBatchRetryIntegrationTest.java
+/Users/geo/eclipse-workspace/tutorials-master/spring-batch/src/test/java/com/baeldung/taskletsvschunks/tasklets/TaskletsIntegrationTest.java
+/Users/geo/eclipse-workspace/tutorials-master/spring-batch/src/test/java/com/baeldung/taskletsvschunks/chunks/ChunksIntegrationTest.java
+/Users/geo/eclipse-workspace/tutorials-master/spring-batch/src/test/java/com/baeldung/batchtesting/SpringBatchIntegrationTest.java
+/Users/geo/eclipse-workspace/tutorials-master/spring-batch/src/test/java/com/baeldung/batchscheduler/SpringBatchSchedulerIntegrationTest.java
+/Users/geo/eclipse-workspace/tutorials-master/spring-batch/src/test/java/com/baeldung/batchtesting/SpringBatchStepScopeIntegrationTest.java

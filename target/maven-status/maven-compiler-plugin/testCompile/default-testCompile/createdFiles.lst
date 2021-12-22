@@ -1,0 +1,6 @@
+com/baeldung/batchtesting/SpringBatchIntegrationTest.class
+com/baeldung/taskletsvschunks/tasklets/TaskletsIntegrationTest.class
+com/baeldung/taskletsvschunks/chunks/ChunksIntegrationTest.class
+com/baeldung/batchscheduler/SpringBatchSchedulerIntegrationTest.class
+com/baeldung/batch/SpringBatchRetryIntegrationTest.class
+com/baeldung/batchtesting/SpringBatchStepScopeIntegrationTest.class
